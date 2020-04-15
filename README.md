@@ -2,4 +2,4 @@
 Personal Card developed with flutter
 
 ### Screenshot
-![](images/screenshot.jpg)
+![](Images/screenshot.jpg)
